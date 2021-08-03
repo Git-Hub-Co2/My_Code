@@ -9,8 +9,8 @@ int main()
     //def 2 numbers
     double result1 = num1 / num2;   //Divison result1 = (double) num1/num2 = 2.5
     double result2 = num1 % num2;   //Rest
-    double result3 = num1++;        //
-    double result4 = --num2;        //
+    double result3 = num1++;        //后置
+    double result4 = --num2;        //前置
     double result5 = num2++;
     double result6 = result5 - result4;
 
@@ -20,8 +20,9 @@ int main()
     cout << "--num2 = " << result4 << endl;
     
     cout << "num2++ = " << result5 << endl;
-    cout << "(num2++) - (--num2) = " << result6 << endl;
     
+    cout << "(num2++) - (--num2) = " << result6 << endl;
+    //这我就看不懂！ I can't understand this item. ↑↑
     return 0;
 
 }
