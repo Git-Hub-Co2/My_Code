@@ -11,7 +11,6 @@ using namespace std; //names by "std"
 
 int main()//poject start
 {
-
 		cout <<"Hello World!" << endl;
 
 	return 0;
