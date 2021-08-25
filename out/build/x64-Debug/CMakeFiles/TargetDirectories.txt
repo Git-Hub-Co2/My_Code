@@ -1,3 +1,0 @@
-C:/Users/Yimin/Desktop/My_Code/out/build/x64-Debug/CMakeFiles/my_cmake_swap.dir
-C:/Users/Yimin/Desktop/My_Code/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Yimin/Desktop/My_Code/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
