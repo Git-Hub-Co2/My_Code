@@ -29,6 +29,11 @@ Zuletzt geändert: Donnerstag, 15. Juli 2021, 16:20
 #include <stdlib.h>
 //*是读取键盘方向键所需*/
 #include<conio.h>
+//*FileSaveAndLoad*/
+#include <fstream>
+
+
+
 
 //**设定游戏人物高度为8行*/
 #define player_H 8
@@ -47,7 +52,15 @@ Zuletzt geändert: Donnerstag, 15. Juli 2021, 16:20
 
 #define right 1
 
+
+
+
+
 using namespace std;
+
+
+
+
 
 //设定一个玩家砍树的类
 /*class Player_cut {
