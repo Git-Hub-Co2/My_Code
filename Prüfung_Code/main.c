@@ -7,6 +7,7 @@
 #include <math.h>
 #include <time.h>
 
+
 #define NUM_TRUNKS 5
 #define PROB_LEAF 15
 #define PADDING_INT_TOP_BOT 1
